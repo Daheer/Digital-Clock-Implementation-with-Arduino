@@ -24,3 +24,11 @@ This project is a digital clock that displays time in the HH:MM:SS XM format.
 The LCD shows the time that can be set with the two pushbutton switches. The first switch increases
 the hour count by one and the second switch increases the minute count by one, with this, any time 
 of the day can be set. The potentiometer controls the brightness of the LCD.
+
+# Tinkercad Link
+
+Explore the project simulation on <a href = 'https://www.tinkercad.com/things/eAKLlaWctIS-digital-clocktinkercad'> Adobe TinkerCad </a> 
+
+# Contact
+
+Dahir Ibrahim (Deedax Inc) - http://instagram.com/deedax_inc Email - suhayrid6@gmail.com Project Link - https://github.com/Daheer/Digital-Clock-Implementation-with-Arduino
