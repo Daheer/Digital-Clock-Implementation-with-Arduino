@@ -25,6 +25,12 @@ The LCD shows the time that can be set with the two pushbutton switches. The fir
 the hour count by one and the second switch increases the minute count by one, with this, any time 
 of the day can be set. The potentiometer controls the brightness of the LCD.
 
+# Demo
+
+Watch a demo
+
+<a href = 'Digital Clock.mov'> <img height = 500 width = 500 src = 'Digital Clock Implementation with Arduino.png'/> </a>
+
 # Tinkercad Link
 
 Explore the project simulation on <a href = 'https://www.tinkercad.com/things/eAKLlaWctIS-digital-clocktinkercad'> Adobe TinkerCad </a> 
