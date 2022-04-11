@@ -27,7 +27,7 @@ of the day can be set. The potentiometer controls the brightness of the LCD.
 
 # Demo
 
-Watch a demo
+Watch a demonstration
 
 <a href = 'Digital Clock.mov'> <img height = 500 width = 500 src = 'Digital Clock Implementation with Arduino.png'/> </a>
 
