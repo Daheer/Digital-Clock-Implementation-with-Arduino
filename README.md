@@ -39,5 +39,5 @@ Explore the project simulation on <a href = 'https://www.tinkercad.com/things/eA
 
 Dahir Ibrahim (Deedax Inc) - http://instagram.com/deedax_inc <br>
 Email - suhayrid6@gmail.com <br>
-YouTube - https://www.youtube.com/channel/UCqvDiAJr2gRREn2tVtXFhvQ
+YouTube - https://www.youtube.com/channel/UCqvDiAJr2gRREn2tVtXFhvQ <br>
 Project Link - https://github.com/Daheer/Digital-Clock-Implementation-with-Arduino
